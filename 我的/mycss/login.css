@@ -1,0 +1,20 @@
+.banner{
+    background: url("../images/1.jpg") no-repeat center ;
+    background-size:cover ;
+
+}
+
+div.banner>.clearfix{
+    padding-top: 40rem;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+    content: ">";
+}
+
+.my_carousel{
+    position:relative;
+}
+.my_carousel img{
+
+}

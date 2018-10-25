@@ -1,0 +1,72 @@
+.footer{
+    background: #181B27;
+}
+
+.footer div>ul li a{
+    color: #949494;
+}
+
+.my_gray{
+    color: #949494;
+}
+
+ul.social {
+    padding: 0;
+    margin-bottom: 1em;
+    list-style: none;
+}
+
+ul.social li{
+    float: left;
+}
+
+ul.social li a i{
+    width: 30px;
+    height: 30px;
+    display: block;
+    background: url(../images/img-sprite.png)no-repeat;
+}
+
+ul.social li a i.tw {
+    background-position: -88px -97px;
+}
+
+ul.social li a i.fb {
+    background-position: -122px -97px;
+}
+
+ul.social li a i.vimeo {
+    background-position: -158px -97px;
+}
+
+ul.social li a i.tumblr {
+    background-position: -193px -97px;
+}
+
+ul.social li a i.dribble {
+    background-position: -228px -97px;
+}
+
+.shuru{
+    width:260px;height:50px;
+    border:1px solid #949494;
+
+}
+.shuru input{
+    background:#181B27 ;
+    border: 0;
+    color: #e2e6ea;
+    position: relative;
+    top:8px;left:10px;
+}
+.shuru span{
+    display: inline-block;
+    background: #843534;
+    color: #e2e6ea;
+    height:50px;
+    width: 50px;
+    border: 1px solid #e2e6ea;
+    float:right;
+    text-align: center;
+    line-height: 40px;
+}
